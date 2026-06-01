@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/validation.test.ts","./src/validation.ts","./src/api/ping.ts","./src/components/message.tsx","./src/components/pingform.test.tsx","./src/components/pingform.tsx","./src/test/setup.ts","./vite.config.ts"],"version":"5.9.3"}
